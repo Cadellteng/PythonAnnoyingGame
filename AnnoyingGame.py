@@ -3,7 +3,7 @@ import random
 
 print "Annoying Game"
 
-greetings = ["Hello", "Fuck you", "You got a one inch dick", "Nice to e-meet you", "You so pretty", "You are brilliant", "You are a genius", "You are Jesus! Bless me"]
+greetings = ["Hello", "Screw you", "You got no money", "Nice to e-meet you", "You so pretty", "You are brilliant", "You are a genius", "You are Jesus! Bless me"]
 
 name = ""
 
